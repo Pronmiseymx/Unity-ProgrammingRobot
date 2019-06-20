@@ -27,3 +27,7 @@ Assets文件夹
 >Scripts：脚本文件夹
 
 >StreamingAssets：存放Json文件
+
+游戏发布
+----
+File->Build Settings->Build
