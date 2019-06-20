@@ -8,7 +8,7 @@ Unity 2017.1.0f3
 
 项目打开方式
 ----------
-使用Unity选择项目文件夹
+使用Unity选择项目文件夹“New Unity Project”
 
 Assets文件夹
 ---------
