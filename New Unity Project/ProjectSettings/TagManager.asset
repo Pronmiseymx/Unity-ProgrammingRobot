@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - up
+  - down
+  - left
+  - right
+  - yellowKey
+  - redKey
+  - Axe
+  - Hammer
+  - Board
+  - Aim
+  - Destructible
+  - send
+  - isRecovery_Y
+  - isRecovery_N
+  - tools_Hammer
+  - tools_Axe
+  - tools_Rk
+  - tools_Yk
+  - tools_Bd
+  - water2
+  - stone
+  - wood
+  - rd_door
+  - yl_door
+  - die
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
