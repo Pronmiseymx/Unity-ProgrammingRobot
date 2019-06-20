@@ -31,3 +31,4 @@ Assets文件夹
 游戏发布
 ----
 File->Build Settings->Build
+![image](https://github.com/Pronmiseymx/-Unity-/blob/master/ReadmeImage/rdmimg_1.jpg)
